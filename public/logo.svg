@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="100%" height="100%">
+  <!-- Background (Optional, transparent by default) -->
+  <rect width="100%" height="100%" fill="none" />
+
+  <!-- LOGO MARK / EMBLEM -->
+  <g transform="translate(250, 150)">
+    <!-- Gold/Yellow Oval (Tilted -45 degrees) -->
+    <ellipse cx="0" cy="0" rx="90" ry="35" transform="rotate(-45)" fill="#E9C160" />
+    
+    <!-- Navy Blue Oval (Tilted 45 degrees) -->
+    <ellipse cx="0" cy="0" rx="90" ry="35" transform="rotate(45)" fill="#1A3668" />
+
+    <!-- Lettering around the emblem (Serif Font) -->
+    <!-- Top E -->
+    <text x="0" y="-105" font-family="'Times New Roman', Georgia, serif" font-size="28" font-weight="bold" fill="#1A3668" text-anchor="middle">E</text>
+    <!-- Bottom E -->
+    <text x="0" y="125" font-family="'Times New Roman', Georgia, serif" font-size="28" font-weight="bold" fill="#1A3668" text-anchor="middle">E</text>
+    <!-- Left A -->
+    <text x="-115" y="10" font-family="'Times New Roman', Georgia, serif" font-size="28" font-weight="bold" fill="#1A3668" text-anchor="middle">A</text>
+    <!-- Right A -->
+    <text x="115" y="10" font-family="'Times New Roman', Georgia, serif" font-size="28" font-weight="bold" fill="#1A3668" text-anchor="middle">A</text>
+  </g>
+
+  <!-- TYPOGRAPHY / BRAND NAME -->
+  <!-- "EA ELECTRONICS" -->
+  <text x="250" y="320" font-family="'Times New Roman', Georgia, serif" font-size="34" font-weight="bold" fill="#1A3668" letter-spacing="2" text-anchor="middle">EA ELECTRONICS</text>
+  
+  <!-- "Cares about your security needs" -->
+  <text x="250" y="350" font-family="'Times New Roman', Georgia, serif" font-size="18" font-style="italic" fill="#1A3668" text-anchor="middle">Cares about your security needs</text>
+</svg>
